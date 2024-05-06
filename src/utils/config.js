@@ -1,0 +1,1 @@
+export const server = "https://reqres.in/api/users?page=1";
